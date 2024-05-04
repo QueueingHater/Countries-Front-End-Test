@@ -1,0 +1,7 @@
+.user-list {
+  max-height: 80vh;
+  overflow: auto;
+}
+.user-list > .user {
+  border: 1px solid pink;
+}
